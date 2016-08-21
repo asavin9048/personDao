@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+    <id>1</id>
+    <fname>9.124.74.85</fname>
+    <lname>DailyLogApplication.log</lname>
+    <age>2</age>
+</Person>

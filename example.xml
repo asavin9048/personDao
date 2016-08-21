@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+  <Person id="5" name="Дурень" second_name="Глупый" age="3" />
+  <Person id="2" name="2" second_name="3" age="4" />
+</Persons>
